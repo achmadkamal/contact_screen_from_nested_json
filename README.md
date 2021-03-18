@@ -1,16 +1,13 @@
-# contact_screen_from_nested_json
+# Contact Screen from Nested Json Data 
 
-A new Flutter project.
+This is my Flutter exercise that aims to improve on previous versions of code to make the code easier to understand and easier to maintain.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+The goal is displaying Nested Json Data API from mock up data by [https://reqres.in/api/users?per_page=12](https://reqres.in/api/users?per_page=12) to ListView.builder.
 
-A few resources to get you started if this is your first Flutter project:
+### Finished App and API data
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screen Contact](https://github.com/achmadkamal/contact_screen_from_nested_json/blob/master/images/contact_screen.jpg?raw=true)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![API Data](https://github.com/achmadkamal/contact_screen_from_nested_json/blob/master/images/nested_json.png?raw=true)
